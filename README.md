@@ -31,6 +31,7 @@ I design and build software with a focus on fundamentals, maintainability, and r
 *and still learning a lot more that i can...*
 
 ## What I'm currently learning 📚
+- Currently exploring DevOps for a potential position @ a big company
 - CS50 *thank the lords for david malan!*
 - System Architecture
 - More understanding of React
