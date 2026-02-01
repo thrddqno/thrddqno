@@ -9,10 +9,6 @@ I'm a software engineer from **The Philippines!**
 ### What I do 🤔
 I design and build software with a focus on fundamentals, maintainability, and real-world constraints. Most of my learning comes from turning ideas into working systems and refining them.
 
-### GitHub stats 📊
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thrddqno&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ## My skills
 ### Languages 🧰
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
@@ -31,7 +27,7 @@ I design and build software with a focus on fundamentals, maintainability, and r
 *and still learning a lot more that i can...*
 
 ## What I'm currently learning 📚
-- Currently exploring DevOps for a potential position @ a big company
+- Spring Boot
 - CS50 *thank the lords for david malan!*
 - System Architecture
 - More understanding of React
